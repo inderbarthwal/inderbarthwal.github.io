@@ -1,10 +1,10 @@
 Place your resume PDF in this folder as:
 
-- `resume.pdf`
+- `Inder_Backend_Accenture.pdf`
 
 Expected final path:
 
-- `/assets/resume.pdf`
+- `/assets/Inder_Backend_Accenture.pdf`
 
-This repository currently includes a placeholder `resume.pdf` so links do not break.
+This repository currently includes a placeholder `Inder_Backend_Accenture.pdf` so links do not break.
 Replace that file with your real resume PDF.
